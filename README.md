@@ -1,5 +1,5 @@
 # 📚 [ZULU Academy TMS](https://zuluacademy.xyz/) Documentation
-### v0.1
+#### v0.1
 
 Welcome to the official documentation repository for the ZULU **Training Management System (TMS)**. This repo contains user-facing guides, and technical support content to help users navigate and utilise the TMS effectively.
 
