@@ -29,8 +29,7 @@ pip install mkdocs
 ```bash
 pip install mkdocs-material
 ```
-Now, your almost ready to go.
-4. Go to `http://127.0.0.1:8000/` ***AFTER*** running:
+4. You almost ready to go! Go to `http://127.0.0.1:8000/` ***AFTER*** running:
 ```bash
 mkdocs serve
 ```
