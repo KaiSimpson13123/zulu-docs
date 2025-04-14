@@ -1,6 +1,6 @@
 # 🤝 Contributing to The TMS Documentation
 
-Thank you for your interest in contributing to the Training Management System (TMS) documentation! Clear, helpful documentation is critical to ensuring users and administrators can use the platform effectively. This guide outlines how to contribute, our standards, and tips for writing great docs. Additonially because it's all in markdown you can just type like you would with discord.
+Thank you for your interest in contributing to the Training Management System (TMS) documentation! Clear, helpful documentation is critical to ensuring users and administrators can use the platform effectively. This guide outlines how to contribute, our standards, and tips for writing great docs. Additonially because it's all in markdown you can just type like you would with discord.<br>
 [Markdown Cheatsheet](https://github.com/im-luka/markdown-cheatsheet?tab=readme-ov-file#%EF%B8%8F-the-only-markdown-cheatsheet-you-need)
 
 
