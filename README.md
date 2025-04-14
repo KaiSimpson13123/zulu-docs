@@ -12,7 +12,7 @@ The Training Management System (TMS) is a centralised platform designed to manag
 We welcome contributions! To suggest edits, add new content, or fix errors:
 
 1. [**Fork**](https://github.com/KaiSimpson13123/zulu-docs/fork) this repository.
-2. Submit a **pull request** with a clear description of the update.
+2. Submit a **pull request** with your *completed* changes a clear description of the update.
 
 Please follow our [Contribution Guidelines](CONTRIBUTING.md) for formatting, tone, and content standards.
 
