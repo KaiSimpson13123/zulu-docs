@@ -1,0 +1,29 @@
+# Site URL not deployed, dont uncomment untill then
+site_name: ZULU TMS Docs
+# site_url: https://docs.zuluacademy.xyz/
+site_author: Zulu Academy
+
+# Copyright notice
+copyright: Copyright &copy; 2025 ZULU Academy
+
+#Site Styling
+theme:
+  name: material
+  logo: assets/ZULU-White.png
+  favicon: assets/favicon.ico
+  extra_css:
+    - stylesheets/extra.css
+
+  features:
+    - navigation.instant.progress
+    - navigation.footer
+
+  font:
+    text: Geist
+
+  palette:
+    scheme: slate
+    primary: custom
+
+extra:
+  generator: false
