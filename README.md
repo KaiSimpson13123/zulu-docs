@@ -21,13 +21,14 @@ Please follow our [Contribution Guidelines](CONTRIBUTING.md) for formatting, ton
 As apart of contributing you will need to see your changes locally. To do this simpilly follow the steps below.
 
 1. Ensure python is installed (dont worry, no python knowlege is required).
-2. Install [MKDOCS](https://www.mkdocs.org/) with `pip`:
+2. Fork the repo
+3. Git clone your forked repo (keep it as is for the command)
 ```bash
-pip install mkdocs
+https://github.com/[YOUR-USERNAME-HERE]/zulu-docs.git
 ```
-3. Install Material for MkDocs, again with `pip`:
+3. Install the requirements with `pip`:
 ```bash
-pip install mkdocs-material
+pip install -r requirements.txt
 ```
 4. You almost ready to go! Go to `http://127.0.0.1:8000/` ***AFTER*** running:
 ```bash
