@@ -16,7 +16,6 @@ title: Setup Guide
 - **Discord ID**: Required for notifications
 - **Timezone**: For scheduling training sessions
 - **Roblox Information**: For identity verification
-- **Sigma**
 
 <!-- ![Setup Process](/images/setup-process.png) -->
 
