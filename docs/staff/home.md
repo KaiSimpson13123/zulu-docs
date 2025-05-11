@@ -14,9 +14,9 @@ hide:
 ## Quick Links
 
 1. [Admin Dashboard Guide](dashboard.md)
-2. [Application Processing](applications.md)
+<!--2. [Application Processing](applications.md)
 3. [Training Management](training.md)
-4. [Exam Administration](exams.md)
+4. [Exam Administration](exams.md)-->
 
 ---
 
