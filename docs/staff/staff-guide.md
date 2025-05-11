@@ -1,7 +1,5 @@
 ---
-File: docs/index.md
----
-title: Admin Guide
+title: Staff Guide
 ---
 
 # Administrator Documentation
@@ -19,5 +17,3 @@ title: Admin Guide
 2. Scheduling training
 3. Logging exam results
 4. Managing staff roles
-
-[Next: FAQ →](faq.md)

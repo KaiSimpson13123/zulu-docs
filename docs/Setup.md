@@ -1,6 +1,4 @@
 ---
-File: docs/index.md
----
 title: Setup Guide
 ---
 

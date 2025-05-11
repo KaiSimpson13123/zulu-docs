@@ -1,6 +1,4 @@
 ---
-File: docs/index.md
----
 title: User Guide
 ---
 
@@ -19,5 +17,3 @@ title: User Guide
 - Requesting training sessions
 - Checking progress
 - Updating profile
-
-[Next: Admin Guide →](admin-guide.md)
