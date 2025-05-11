@@ -10,6 +10,7 @@ title: Staff Guide
 - **Training Oversight**: Monitor active sessions
 - **User Management**: Modify roles and permissions
 - **System Notices**: Post announcements
+- **Sigma**: Get freaky
 
 ## Workflows
 
