@@ -10,7 +10,7 @@ The Training Management System ([TMS](https://zuluacademy.xyz/)) is your central
 
 ---
 
-1. **[About TMS](about.md)** - Understand the core features and benefits
-2. **[Setup Guide](setup.md)** - First-time user instructions
-3. **[User Guide](user-guide.md)** - How to use the platform
-4. **[FAQ](faq.md)** - Common questions and solutions
+1. **[About TMS](about.md)** - Understand the core features and benefits.
+2. **[Setup Guide](setup.md)** - First-time user instructions.
+3. **[User Guide](user-guide.md)** - How to use the platform.
+4. **[FAQ](faq.md)** - Common questions and solutions.
