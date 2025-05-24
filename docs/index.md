@@ -6,7 +6,7 @@ title: Home
 
 ### [Discord](https://discord.gg/cHPRF6mcCQ) | [Main Site](https://zuluacademy.xyz/) | [Contribute to the Docs](https://github.com/KaiSimpson13123/zulu-docs/tree/main)
 
-The Training Management System ([TMS](https://zuluacademy.xyz/)) is your central hub for managing, delivering, and tracking training across ZULU Academy. This documentation provides guides and support to help you make the most of the TMS.
+The Training Management System ([TMS](https://zuluacademy.xyz/)) is your central hub for managing, delivering, and tracking your training across ZULU Academy. This documentation provides guides and support to help you make the most of the TMS.
 
 ---
 
